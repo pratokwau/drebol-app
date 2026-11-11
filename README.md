@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | Android | 1.4.1 | [DrebolVPN-Android-1.4.1.apk](../../releases/tag/android-1.4.1) |
 | Windows | 0.1.0 (превью) | [DrebolVPN-Windows-0.1.0.zip](../../releases/tag/windows-0.1.0) |
-| macOS | — | скоро |
+| macOS | 0.1.0 (превью) | [DrebolVPN-0.1.0.dmg](../../releases/tag/macos-0.1.0) |
 | iOS | — | скоро |
 
 - Сайт: https://vpn.drbl.tech/
@@ -21,4 +21,7 @@
   начисто (конфликт подписи между сборками).
 - Windows (превью): первая версия, Xray-ядро скачивается при первом запуске.
   Требуется Windows 10 или новее, 64-bit.
-- Исходники: форки v2rayNG (Android) и v2rayN (Windows).
+- macOS (превью): первая версия. DMG не подписан (нет Apple Developer):
+  при первом запуске — правый клик по приложению → «Открыть».
+- Исходники: форки v2rayNG (Android), v2rayN (Windows) и Hiddify (macOS).
+
